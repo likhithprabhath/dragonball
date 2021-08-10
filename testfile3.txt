@@ -1,1 +1,3 @@
-Thi is another test file
+This is another test file
+
+We have updated a few lines
